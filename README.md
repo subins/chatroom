@@ -1,1 +1,1 @@
-Chat application using Node, Express, Socket.io, Mongo
+Chat application using Node, Socket.io
