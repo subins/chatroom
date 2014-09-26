@@ -1,4 +1,1 @@
-chatroom
-========
-
-A simple chat app, using Node, Express, Socket.io, Mongo
+Chat application using Node, Express, Socket.io, Mongo
